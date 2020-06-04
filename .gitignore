@@ -80,7 +80,7 @@ crashlytics-build.properties
 /Release built/
 /Unity Project/
 /Android Project/.idea/
-/Android Project/gradle/
+#/Android Project/gradle/
 
 
 

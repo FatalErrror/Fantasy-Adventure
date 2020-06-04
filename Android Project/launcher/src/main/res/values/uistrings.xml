@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--string name=""></string-->
+    <string name="GameName">Fantasy Adventure</string>
+    <string name="Play">Play</string>
+    <string name="Settings">Settings</string>
+    <string name="News">News</string>
+    <string name="Quit">Quit</string>
+
+    <string name="Singl">Singlplayer</string>
+    <string name="Multy">Multiplayer</string>
+
+    <string name="New">New Game</string>
+    <string name="Load">Load Game</string>
+
+    <string name="NameOfGame">Game Name</string>
+    <string name="Create">Create</string>
+
+    <string name="Remove">Remove</string>
+    <string name="PressAgain">Press again to remove this game</string>
+
+    <string name="Shadow">Shadow</string>
+    <string name="Far">Camera Far</string>
+    <string name="Aim">Aim</string>
+    <string name="Weapon">Show Weapon</string>
+    <string name="Dynamic">Dynamic Joystick</string>
+
+
+</resources>

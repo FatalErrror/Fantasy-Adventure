@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fantasy Adventure</string>
+    <string name="game_view_content_description">Game view</string>
+    <!--string name=""></string-->
+    <string name="GameName">Fantasy Adventure</string>
+    <string name="Play">Играть</string>
+    <string name="Settings">Настройки</string>
+    <string name="News">Новости</string>
+    <string name="Quit">Выйти</string>
+
+    <string name="Singl">Одиночная игра</string>
+    <string name="Multy">Сетевая игра</string>
+
+    <string name="New">Новая игра</string>
+    <string name="Load">Загрузить игру</string>
+
+    <string name="NameOfGame">Название игры</string>
+    <string name="Create">Создать</string>
+
+    <string name="Remove">Удалить</string>
+    <string name="PressAgain">Нажмите снова, что-бы удалить эту игру</string>
+
+    <string name="Shadow">Тени</string>
+    <string name="Far">Дальность прорисовки</string>
+    <string name="Aim">Прицел</string>
+    <string name="Weapon">Показывать оружие</string>
+    <string name="Dynamic">Динамичный джойстик</string>
+
+</resources>

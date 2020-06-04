@@ -1,10 +1,4 @@
 
-/Android Project/
-
-/Development built/
-/Release built/
-/Unity Project/
-
 
 # This .gitignore file should be placed at the root of your Unity project directory
 #
@@ -77,3 +71,38 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
+
+/Android Project/unityLibrary/
+
+/Development built/
+/Release built/
+/Unity Project/
+/Android Project/.idea/
+/Android Project/gradle/
+
+
+/Android Project/Android Project.iml
+
+/Android Project/build.gradle
+
+/Android Project/build.gradle.NEW
+
+/Android Project/gradle.properties
+
+/Android Project/gradlew
+
+/Android Project/local.properties
+
+/Android Project/settings.gradle
+
+/Android Project/gradlew.bat
+
+/Android Project/launcher/build.gradle
+
+/Android Project/launcher/build.gradle.NEW
+
+/Android Project/launcher/launcher.iml
+
+/Android Project/launcher/build/

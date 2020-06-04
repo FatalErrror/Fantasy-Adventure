@@ -101,7 +101,7 @@ crashlytics-build.properties
 
 /Android Project/launcher/build.gradle
 
-/Android Project/launcher/build.gradle.NEW
+#/Android Project/launcher/build.gradle.NEW
 
 /Android Project/launcher/launcher.iml
 
